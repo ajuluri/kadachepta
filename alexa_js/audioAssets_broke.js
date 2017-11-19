@@ -5,7 +5,7 @@ var xml2js = require('xml2js');
 var parseString = xml2js.parseString;
 var audioData = [];
 
-asyncrequest("http://n2quest.com/feed", function(error, responsemeta, body) {
+asyncrequest("https://kadachepta.com/feed", function(error, responsemeta, body) {
 
 	parseString(body, function(err, result){
 			var stories = result['rss']['channel'][0]['item'];
