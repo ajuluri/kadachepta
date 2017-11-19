@@ -20,7 +20,7 @@ var stateHandlers = {
             //  Change state to START_MODE
             this.handler.state = constants.states.START_MODE;
 
-            //var message = 'Welcome to the AWS Podcast. You can say, play the audio to begin the podcast.';
+            //var message = 'Welcome to the kadachepta.com. You can say, play the story to begin the story.';
             //var reprompt = 'You can say, play the audio, to begin.';
 
             //this.response.speak(message).listen(reprompt);*/
@@ -33,7 +33,7 @@ var stateHandlers = {
                 this.attributes['index'] = 0;
                 this.attributes['offsetInMilliseconds'] = 0;
                 this.attributes['loop'] = true;
-                this.attributes['shuffle'] = false;
+                this.attributes['shuffle'] = true;
                 this.attributes['playbackIndexChanged'] = true;
                 //  Change state to START_MODE
                 this.handler.state = constants.states.START_MODE;
@@ -41,7 +41,7 @@ var stateHandlers = {
             controller.play.call(this);
         },
         'AMAZON.HelpIntent' : function () {
-            var message = 'Welcome to the AWS Podcast. You can say, play the audio, to begin the podcast.';
+            var message = 'Welcome to the kadachepta.com. You can say, play the story, to begin the story.';
             this.response.speak(message).listen(message);
             this.emit(':responseReady');
         },
@@ -59,7 +59,7 @@ var stateHandlers = {
             // No session ended logic
         },
         'Unhandled' : function () {
-            var message = 'Sorry, I could not understand. Please say, play the audio, to begin the audio.';
+            var message = 'Sorry, I could not understand. Please say, play the story, to begin the story.';
             this.response.speak(message).listen(message);
             this.emit(':responseReady');
         }
@@ -82,7 +82,7 @@ var stateHandlers = {
             var reprompt;
             if (this.attributes['playbackFinished']) {
                 this.handler.state = constants.states.START_MODE;
-                message = 'Welcome to the AWS Podcast. You can say, play the audio to begin the podcast.';
+                message = 'Welcome to the kadachepta.com. You can say, play the story to begin the story.';
                 reprompt = 'You can say, play the audio, to begin.';
             } else {
                 this.handler.state = constants.states.RESUME_DECISION_MODE;
@@ -108,7 +108,7 @@ var stateHandlers = {
         'AMAZON.StartOverIntent' : function () { controller.startOver.call(this) },
         'AMAZON.HelpIntent' : function () {
             // This will called while audio is playing and a user says "ask <invocation_name> for help"
-            var message = 'You are listening to the AWS Podcast. You can say, Next or Previous to navigate through the playlist. ' +
+            var message = 'You are listening to the kadachepta.com. You can say, Next or Previous to navigate through the playlist. ' +
                 'At any time, you can say Pause to pause the audio and Resume to resume.';
             this.response.speak(message).listen(message);
             this.emit(':responseReady');
@@ -202,10 +202,15 @@ var controller = function () {
 
             if (canThrowCard.call(this)) {
                 var cardTitle = 'Playing ' + podcast.title;
-                var cardContent = 'Playing ' + podcast.title;
-                this.response.cardRenderer(cardTitle, cardContent, null);
+                var cardContent = podcast.description;
+				var imageObj = {
+					smallImageUrl: 'https://kadachepta.com/wp-content/uploads/2017/09/alexa_small.jpg',
+					largeImageUrl: 'https://kadachepta.com/wp-content/uploads/2017/09/alexa_large.jpg'
+				};
+                this.response.cardRenderer(cardTitle, cardContent, imageObj);
             }
 
+			//this.response.speak("This story was sponsored by N2Quest.com. Checkout more stories at kadachepta.com!");
             this.response.audioPlayerPlay(playBehavior, podcast.url, token, null, offsetInMilliseconds);
 
             this.emit(':responseReady');
