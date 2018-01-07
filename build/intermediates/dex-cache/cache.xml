@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_9bacabc304b7203401c5f6ba46ff39919d928c60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/exploded-aar/com.koushikdutta.async/androidasync/2.1.9/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="60d0e28fe7ab6da6c03b54cd8ede502284d51a81">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.koushikdutta.async-androidasync-2.1.9_78689022932ab1bd2f427c49006c34298243963b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/exploded-aar/com.koushikdutta.ion/ion/2.1.9/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e54ea31584406fcc68225a8656f384c333ff2ee">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.koushikdutta.ion-ion-2.1.9_d3df86d1ef072299c561ad6211ac11d9595f9c23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3_d31cdf3357941755496cab254028e3992b532e8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_49c3f4a462e101094b4389a41fddd06986fb8923/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_52ec0b5383bb71ad0faf5c4d86e345d41b760f23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.4.0_080a3468f11f6beca68a9101fe06242d99f29d7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_407b1529adb49e68ada0d251bf1b804795589098/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/ANDROIDSDK/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_5f5a421138a46645fcbd73588888b87436227b48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/.gradle/caches/modules-2/files-2.1/in.srain.cube/grid-view-with-header-footer/1.0.12/6b45a6bca9304d0ae6d26d01a2ea2f62bfe46a27/grid-view-with-header-footer-1.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6b45a6bca9304d0ae6d26d01a2ea2f62bfe46a27">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/grid-view-with-header-footer-1.0.12_e86152bb5eeda119abbc7a41bc4621ee3bc3e2f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_aa9fa42ebca370de0eff2e0dd144cadfba99b7e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.4.0_44d1c9982bbee289678c750d43ecdfba55a98ed8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_31e89ca5ffb1ec05d3d5436a248598196d3126b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.4.0_9442bb3b1cd9e48319819d957a1dee59ad47adde/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="287e0eeb519533e9605eb65f14f3e1764a55db45">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_33d3d7526870be808c0258c4ddd8c5f8fa2491f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_9f58fa2f14dc962433932dcb4878021eac666f7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/exploded-aar/com.cleveroad/audiowidget/0.9.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2e248eba109318eeb03db134f94c8763c202370e">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.cleveroad-audiowidget-0.9.2_7c3e5666db01655b57bd61263ba8b4f86f30915b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.4.0_5bd226bf0137fad412fe874465137d0257b64a3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.4.0_4196024eda61aa3940e739258e20f6c2ba786dbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f7f41972e06dbee631d3b28933cab0661f99c6c0">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0dd8d7e3d0a5e3b19f0c9a677926d7a58c4b9871/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/exploded-aar/jp.wasabeef/glide-transformations/1.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5264b71e1dc59a10268e0aafa38cb9a9c773a20d">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/jp.wasabeef-glide-transformations-1.3.1_58d9c26c70ac66dfaddff99600d56847b36f9ee6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/exploded-aar/com.github.mancj/MaterialSearchBar/0.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4b213782272dd35a7bf5c0a7e344a4751b7d8d25">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.mancj-MaterialSearchBar-0.2.0_7487c9823c548d5fee2db080774f6fd85dc54925/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.4.0_996b91ef9711fb3e6d9fa7a18bd18fcadfc079ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.4.0_e4aff78b04c787f7685c4cdacf4986977b8e7034/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.6.1_9f8b6c0bc0b1270a3de61e800c41925155787a39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.4.0_93f31929dbee3dba86e23bb34fbf515648d1e3b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_c28a383e166f534c073f60060555bfab082f9ae8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_12b062ae5d4c1bdac7c351eac44c32ad240d2c02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_320f1e500acc920572555ae0b523dda01dffa7f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/exploded-aar/com.yarolegovich/lovely-dialog/1.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="736afb22391a31d5fb14d282179c06c5649c46fe">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.yarolegovich-lovely-dialog-1.0.4_535e6b8414087e6d9825bda4e7193d52dbadef7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_9d26844ffc251e838b0d34a48c37b79bae17d6a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/Users/APPTEVE/APPTEVE/UPDATES/SPOTI-ANDR/SPOTIMUSIC_ANDROID_V1_2/APP_ANDROID_NEWPLAY/Spotimusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_3703f90d4a6449f8f61a9e6db700d16e060c49d1/classes.dex" />
+    </item>
+
+</items>
